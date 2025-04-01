@@ -37,10 +37,7 @@ main {
 .box {
   position: relative;
   background-color: var(--c-gray);
-}
-
-.box-inner {
- padding: 10px;
+  padding: 10px;
 }
 
 .box-img {
